@@ -9,31 +9,31 @@ const questions = [
         ]
     },
     {
-            question: "what is your name ?",
+            question: "Which surah is called Al-Hamd?",
             answers:[
-            {text: "nadeem", correct: true},
-            {text: "sain", correct: false},
-            {text: "soomro", correct: false},
-            {text: "manthar", correct: false},
+            {text: "Al-Fateh", correct: true},
+            {text: "Al-Yaseen", correct: false},
+            {text: "Al-Baqra", correct: false},
+            {text: "Al-Rehman", correct: false},
         ]
     },
     {
-            question: "what is your cast?",
+            question: " Where is Faran Valley?",
             answers :[
-            {text: "shaik", correct: false},
-            {text: "soomro", correct: true},
-            {text: "sardar", correct: false},
-            {text: "khakhrani", correct: false},
+            {text: "Makka", correct: false},
+            {text: "Taif", correct: true},
+            {text: "Madina", correct: false},
+            {text: "Baitul Muqadis", correct: false},
         ]
     },
 
     {
-            question: "what is your clothes color?",
+            question: "How many Farz Wuzu (abolution) has?",
              answers: [
-            {text: "blue", correct: false},
-            {text: "black", correct: false},
-            {text: "white", correct: false},
-            {text: "red", correct: true},
+            {text: "Three", correct: false},
+            {text: "Five", correct: false},
+            {text: "Six", correct: false},
+            {text: "Four", correct: true},
         ]
     }
 ];
